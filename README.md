@@ -10,3 +10,5 @@
   5. Phophor Icons (Icons) ✔
   6. Date FNS (To Dates) ✔
   8. Netlify (To Deploy) ✔
+  
+  👉 AppLink: https://shorturl.at/noELM
