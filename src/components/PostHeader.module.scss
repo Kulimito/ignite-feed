@@ -1,0 +1,33 @@
+   .postHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  time {
+    font-size: 0.875rem;
+    color: var(--gray-400);
+  }
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.authorInfo {
+  display: flex;
+  flex-direction: column;
+  
+  strong {
+    color: var(--gray-100);
+    line-height: 1.6;
+  }
+
+  span {
+    font-size: 0.875rem;
+    color: var(--gray-400);
+    line-height: 1.6;
+  }
+}
+
